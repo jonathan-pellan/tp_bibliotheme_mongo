@@ -1,0 +1,6 @@
+click==8.1.8
+colorama==0.4.6
+dnspython==2.7.0
+pymongo==4.11.3
+setuptools==75.8.0
+wheel==0.45.1
